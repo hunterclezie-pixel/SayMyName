@@ -1,4 +1,11 @@
-﻿namespace SayMyName
+﻿/* 
+Hunter Clezie 
+Spring 2026
+RCET2265
+Console Practice program
+github url: https://github.com/hunterclezie-pixel/SayMyName.git
+*/
+namespace SayMyName
 {
     internal class Program
     {
